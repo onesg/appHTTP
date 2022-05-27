@@ -1,0 +1,11 @@
+{
+  "expo": {
+    "name": "appHTTP",
+    "slug": "appHTTP",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  },
+  "name": "appHTTP"
+}
